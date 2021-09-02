@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hamraah/static/js/main.248d846a.chunk.js",
+    "main.js.map": "/hamraah/static/js/main.248d846a.chunk.js.map",
+    "runtime-main.js": "/hamraah/static/js/runtime-main.05d5e502.js",
+    "runtime-main.js.map": "/hamraah/static/js/runtime-main.05d5e502.js.map",
+    "static/js/2.1b8c1100.chunk.js": "/hamraah/static/js/2.1b8c1100.chunk.js",
+    "static/js/2.1b8c1100.chunk.js.map": "/hamraah/static/js/2.1b8c1100.chunk.js.map",
+    "static/js/3.75b1d4e5.chunk.js": "/hamraah/static/js/3.75b1d4e5.chunk.js",
+    "static/js/3.75b1d4e5.chunk.js.map": "/hamraah/static/js/3.75b1d4e5.chunk.js.map",
+    "index.html": "/hamraah/index.html",
+    "static/js/2.1b8c1100.chunk.js.LICENSE.txt": "/hamraah/static/js/2.1b8c1100.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d5e502.js",
+    "static/js/2.1b8c1100.chunk.js",
+    "static/js/main.248d846a.chunk.js"
+  ]
+}
